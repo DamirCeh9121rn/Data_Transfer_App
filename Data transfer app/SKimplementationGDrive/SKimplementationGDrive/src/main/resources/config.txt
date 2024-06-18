@@ -1,0 +1,7 @@
+Name: test2
+Size: 9223372036854775807bytes
+Exstension: []
+Num of file - 30
+dir2-30
+dir1-30
+dir3-30

@@ -1,0 +1,1 @@
+RootConfig{fileName=Lokalni-reponumOfFile=10size=9223372036854775807extensions=[]}
